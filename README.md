@@ -1,6 +1,6 @@
-# 🧠 Mental Health Disorder Dashboard
+#  Mental Health Disorder Dashboard
 
-## 📌 Overview  
+##  Overview  
 This project provides a detailed **Mental Health Analytics Dashboard** built with **Power BI**.  
 It analyzes data on **mental health disorders, depression, suicide rates, and behavioral metrics** across multiple countries and years.  
 
@@ -12,7 +12,7 @@ The dashboard aims to:
 
 ---
 
-## 🧹 Data Cleaning & Preparation  
+##  Data Cleaning & Preparation  
 
 Before creating the dashboard, extensive **data cleaning and preparation** was carried out:
 
@@ -35,16 +35,16 @@ Before creating the dashboard, extensive **data cleaning and preparation** was c
 
 ---
 
-## 📊 Dashboards  
+##  Dashboards  
 
-### 📍 Mental Health Disorder Dashboard  
+###  Mental Health Disorder Dashboard  
 <img width="1297" height="727" alt="image" src="https://github.com/user-attachments/assets/dc6b515b-9669-4243-a405-5ac8942b4be8" />
 
 
-### 📍 Data Model  
+###  Data Model  
 <img width="1103" height="375" alt="image" src="https://github.com/user-attachments/assets/e839f1ce-2abf-485a-bad3-2b3429978848" />
 
-### 📍 Key Influencers Analysis  
+###  Key Influencers Analysis  
 <img width="1282" height="705" alt="image" src="https://github.com/user-attachments/assets/a1010f8f-c182-4881-89fd-ef26714d5f86" />
 
 
@@ -59,7 +59,7 @@ Before creating the dashboard, extensive **data cleaning and preparation** was c
 
 ---
 
-## ✅ Database Schema (Conceptual)  
+##  Database Schema (Conceptual)  
 
 **FactMentalHealth**
 - `EntityID` (FK → Dim_Entity)  
@@ -92,7 +92,7 @@ Before creating the dashboard, extensive **data cleaning and preparation** was c
 
 ---
 
-## 🔍 Key Insights  
+##  Key Insights  
 
 - **Global Prevalence:** Over **986M patients** across **49 countries**  
 - **Depression Trend:** Steady rise in prevalence since 1990, reaching nearly 8B people in 2020  
@@ -103,7 +103,7 @@ Before creating the dashboard, extensive **data cleaning and preparation** was c
 
 ---
 
-## 📌 Conclusion  
+##  Conclusion  
 This dashboard highlights the growing **global challenge of mental health disorders**.  
 The analysis provides valuable insights for:  
 - **Health policymakers** to allocate resources  
@@ -117,7 +117,7 @@ The analysis provides valuable insights for:
 
 ---
 
-## ⚙️ Tools Used  
+##  Tools Used  
 - **SQL** – Data cleaning & relational modeling  
 - **Power BI** – Visualization & dashboard creation  
 - **DAX** – Advanced metrics & Key Influencers Analysis  
@@ -125,5 +125,5 @@ The analysis provides valuable insights for:
 
 ---
 
-👩‍💻 Created by *Balikisu Ajoke Oniyide*
+ Created by *Balikisu Ajoke Oniyide*
 # Mental-Health-File
