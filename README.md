@@ -1,4 +1,6 @@
 #  Mental Health Disorder Dashboard
+<img width="1297" height="727" alt="image" src="https://github.com/user-attachments/assets/dc6b515b-9669-4243-a405-5ac8942b4be8" />
+
 
 ##  Overview  
 This project provides a detailed **Mental Health Analytics Dashboard** built with **Power BI**.  
@@ -34,11 +36,6 @@ Before creating the dashboard, extensive **data cleaning and preparation** was c
    - Built a **Date Dimension Table** for trend analysis  
 
 ---
-
-##  Dashboards  
-
-###  Mental Health Disorder Dashboard  
-<img width="1297" height="727" alt="image" src="https://github.com/user-attachments/assets/dc6b515b-9669-4243-a405-5ac8942b4be8" />
 
 
 ###  Data Model  
